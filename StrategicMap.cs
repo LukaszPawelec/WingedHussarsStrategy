@@ -1,10 +1,4 @@
-﻿using System;
-using SimpleJson;
-using System.Security.Policy.Zone;
-using System.Object;
-using System.SystemException;
-
-namespace AssemblyCSharp
+﻿namespace AssemblyCSharp
 {
 
     public class StrategicMap
