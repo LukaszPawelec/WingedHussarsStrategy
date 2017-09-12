@@ -3,6 +3,12 @@
     public class Resources
     {
         private SortedDictionary<ResourceType, int> resources;
+
+        private void addResources()
+        {
+            
+        }
+        
     }
     
     
